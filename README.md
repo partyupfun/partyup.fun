@@ -1,2 +1,2 @@
 # partyup.fun
-Official website source code for PartyUp.fun
+PartyUp.fun website files and SEO setup
